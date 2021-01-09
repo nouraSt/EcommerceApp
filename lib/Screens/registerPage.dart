@@ -50,17 +50,24 @@ class _registerPage extends State<registerPage> {
      return e;
    }
  }
+
+
+
   @override
   void initState() {
     _passwordFocusNode = FocusNode();
     _
      super.initState();
   }
+
+
+
   @override
   void dispose() {
     _passwordFocusNode.dispose();
       super.dispose();
   }
+
 
 
   Future<void> _dialog(String error) async{
@@ -75,10 +82,7 @@ class _registerPage extends State<registerPage> {
            FlatButton(
              child: Text("close dialog"),
              onPressed:
-               setState((){
-
-                 }
-         );
+               setState((){});
            }
            )
          ]

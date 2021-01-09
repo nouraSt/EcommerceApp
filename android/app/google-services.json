@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082991538709",
+    "project_id": "ecoomerce-b1db1",
+    "storage_bucket": "ecoomerce-b1db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082991538709:android:2ae1441b187fd7ce68141c",
+        "android_client_info": {
+          "package_name": "com.musicplayer.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082991538709-l7qi9l58lf7v8g6ov5nnqhjleuanc2ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-qvvUjU-VtmC3yfVVfGjdXsZQQ0YsLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082991538709-l7qi9l58lf7v8g6ov5nnqhjleuanc2ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

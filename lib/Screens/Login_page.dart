@@ -75,7 +75,7 @@ class _Login_PageState extends State<Login_Page> {
 
                   )
                 ],
-              )
+              ),
               CustomButton(text:"Create new account", onpressed: (){
                 Navigator.push(context,MaterialPageRoute(builder:(context) => registerPage() ),  ),
 
